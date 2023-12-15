@@ -7,3 +7,4 @@ Finally sum the two arrays.
 Function for know if a given numbers is a palindrome
 
 -> Function3
+Function that calculate the remaining time of something

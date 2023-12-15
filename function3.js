@@ -13,6 +13,6 @@ function timeTo (remnaining) {
 //Test remaining time
 console.log(timeTo(0));
 //Test with 5 minutes
-console.log(timeTo(4))
+console.log(timeTo(4));
 //Test if dont pass parameter to the function
-console.log(timeTo(""))
+console.log(timeTo(""));
