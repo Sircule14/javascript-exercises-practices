@@ -6,7 +6,7 @@ function timeTo (remnaining) {
     } else if (remnaining > 0) {
     return 'not done';
 } else {
-    'You forgot to set timer.'
+    'You forgot to set timer, set it please.'
 }
 }
 
