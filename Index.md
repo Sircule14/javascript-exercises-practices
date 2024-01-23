@@ -11,3 +11,7 @@ Function that calculate the remaining time of something
 
 -> Weigth_controlv2 
 Function that calculate the result of the losing control in a plan to achieven that goal
+
+-> Function 4:
+Function that factorize a number.
+
